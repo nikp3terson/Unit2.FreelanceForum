@@ -38,6 +38,7 @@ function renderLancers() {
  }
 }
 
+render
 renderLancers()
 
 setInterval(renderLancers, 20000)
